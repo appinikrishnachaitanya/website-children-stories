@@ -1,0 +1,44 @@
+header h1 {
+
+      font-family:Segoe Script;
+                   color:white;
+        background-color:green;
+              text-align:center;
+              padding:10px;         
+}
+
+header h2 {
+
+            font-family:MV Boli;
+                  color:#b831bf;
+              text-align:center;
+         
+       
+}
+
+
+marquee {
+  
+            padding:10px;
+         }
+
+
+img      {
+          
+            float:right;
+            margin-left:10px;
+         }
+
+
+ p       {
+          float:left
+          margin:10px;       
+                      }
+
+
+footer {
+
+       background-color:#398994;
+       text-align:center;
+       }
+        
